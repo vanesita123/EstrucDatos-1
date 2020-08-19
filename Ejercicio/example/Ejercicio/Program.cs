@@ -8,6 +8,10 @@ namespace Ejercicio
 {
     class Program
     {
+        /// <summary>
+        /// programa nro 1 ... C#
+        /// </summary>
+        /// <param name="args">cualquier argumento</param>
         static void Main(string[] args)
         {
             int variable1 = 0;
